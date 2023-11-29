@@ -1,6 +1,6 @@
-﻿namespace FirstApp
+﻿namespace RpaChallange
 {
-    class FirstApp
+    class RpaChallange
     {
         static void Main(string[] args)
         {

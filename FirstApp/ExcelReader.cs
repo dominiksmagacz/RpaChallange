@@ -1,6 +1,6 @@
 ﻿using ClosedXML.Excel;
 
-namespace FirstApp
+namespace RpaChallange
 {
     class ExcelReader
     {

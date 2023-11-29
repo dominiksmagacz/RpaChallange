@@ -1,4 +1,4 @@
-﻿namespace FirstApp
+﻿namespace RpaChallange
 {
     class Person
     {

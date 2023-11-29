@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClosedXML\ClosedXML\ClosedXML.csproj" />
+    <ProjectReference Include="..\..\ClosedXML\ClosedXML\ClosedXML.csproj" />
   </ItemGroup>
 
 

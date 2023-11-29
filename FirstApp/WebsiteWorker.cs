@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium;
 
-namespace FirstApp
+namespace RpaChallange
 {
     class WebsiteWorker
     {
